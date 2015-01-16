@@ -34,6 +34,7 @@ These are our teams. We will need a lot of coordination between groups, so focus
 - Philip Riley
 - Michelle Park
 - Mark Pfeffer
+- Ali Esmaili
 
 ## Back End ##
 
