@@ -8,7 +8,7 @@ These are our teams. We will need a lot of coordination between groups, so focus
 
 - Kevin Maze
 - Kevin Xu (XuBoxes)
-- Valerie Smith
+- William Tsang
 - Aaron Karlsberg
 - Vincent Colavin
 
@@ -53,7 +53,8 @@ These are our teams. We will need a lot of coordination between groups, so focus
 - Stephen Clem
 - Juan Gomez
 - Forrest Venable
-- Leonard Bui 
+- Leonard Bui
+- Soren Peterson
 
 ### AWS / S3 / EC2 / DynamoDB? ###
 
@@ -61,3 +62,4 @@ These are our teams. We will need a lot of coordination between groups, so focus
 - Rich McClusky
 - Devon Estes
 - Nilesh Dharamcy
+- Adell Hanson-Kahn
