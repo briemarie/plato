@@ -19,6 +19,7 @@ These are our teams. We will need a lot of coordination between groups, so focus
 - Paul Yu
 - Kevin Xu (Midnight Apple Pie)
 - Alfred Calayag
+- Peter Haugen
 
 ### CSS Animations & Transitions ###
 
